@@ -27,3 +27,6 @@ IMDb Movie Reviews - A large corpus of movie reviews with labeled sentiments, id
 ## Objective
 
 Develop a high-performing sentiment classifier that can accurately determine whether a movie review expresses positive or negative sentiment, leveraging transfer learning from pre-trained language models.
+
+## Predicted text after fine tuning
+![Prediction](https://github.com/sawarni99/sentiment-analysis-imdb/blob/main/images/Prediction.png)
